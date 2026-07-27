@@ -84,7 +84,7 @@ Ejemplo con [ 3, 1, 2, 1 ]:
 
 1. Clona el repositorio:
 
-   git clone https://github.com/jpulecio-design/shell-and-counting-sort-ejercicios
+   git clone https://github.com/jpulecio-design/Algoritmo-ShellSort-Y-CountingSort-Java
 
 2. Abre el proyecto en tu IDE.
 
